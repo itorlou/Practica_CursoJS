@@ -6,4 +6,4 @@ Esto es un repositorio para llevar un seguimiento de un curso de [Udemy](https:/
 
 Actualmente he completado los siguientes módulos:
 
-3. [HTML]()
+3. [HTML](3.repaso_html)
